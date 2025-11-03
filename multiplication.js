@@ -10,3 +10,4 @@ function multiplication(Nums, n){
     }
 }
 console.log(multiplication(3,10));
+ 
