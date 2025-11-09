@@ -1,4 +1,4 @@
-// write a program that checks if a given number is a perfect number
+// write a program that checks if a given number is a perfect numbers
 
 function CheckPerfectNums(InputNumber){
     let result = 0;
